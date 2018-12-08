@@ -9,20 +9,20 @@
   h2 {
       font-size: 24px;
       text-transform: uppercase;
-      color: #0000FF;
+      color: #3399FF;
       font-weight: 600;
       margin-bottom: 30px;
   }
   h4 {
       font-size: 19px;
       line-height: 1.375em;
-      color: #0000FF;
+      color: #3399FF;
       font-weight: 400;
       margin-bottom: 30px;
   }  
   .jumbotron {
       background-color: transparent;
-      color: #0000FF;
+      color: #3399FF;
       font-family: Montserrat, sans-serif;
     }
 
@@ -38,11 +38,11 @@
       background-color: #fff;
   }
   .logo-small {
-      color: #0000FF;
+      color: #3399FF;
       font-size: 50px;
   }
   .logo {
-      color: #0000FF;
+      color: #3399FF;
       font-size: 200px;
       }
   .thumbnail {
@@ -77,10 +77,10 @@
   .panel-footer .btn:hover {
       border: 1px solid #f4511e;
       background-color: #fff !important;
-      color: #0000FF;
+      color: #3399FF;
   }
   .panel-heading {
-      color: #0000FF !important;
+      color: #3399FF !important;
       background-color: transparent!important;
       padding: 25px;
       border-bottom: 1px solid transparent;
@@ -96,13 +96,13 @@
       font-size: 32px;
   }
   .panel-footer h4 {
-      color: #0000FF;
+      color: #3399FF;
       font-size: 14px;
   }
   .panel-footer .btn {
       margin: 15px 0;
       background-color: transparent;
-      color: #0000FF;
+      color: #3399FF;
   }
   .navbar {
       margin-bottom: 0;
@@ -116,16 +116,16 @@
       font-family: Montserrat, sans-serif;
   }
   .navbar li a, .navbar .navbar-brand {
-      color: #0000FF!important;
+      color: #3399FF!important;
   }
   .navbar-nav li a:hover, .navbar-nav li.active a {
       text-decoration: underline;
-      color: #0000FF !important;
+      color: #3399FF !important;
       background-color: transparent!important;
   }
   .navbar-default .navbar-toggle {
       border-color: transparent;
-      color: #0000FF !important;
+      color: #3399FF !important;
   }
   footer .glyphicon {
       font-size: 25px;
